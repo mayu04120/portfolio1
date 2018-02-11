@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Portfolio</title>
+    <%= csrf_meta_tags %>
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+  <body>
+
+<!-- header -->
+
+	<header>
+	  <img src="" alt="">
+	</header>
+
+<!-- header -->
+
+    <%= yield %>
+
+<!-- footer -->
+
+<footer>
+	<p>All right reserved ©mayu masuda</p>
+</footer>
+
+<!-- footer -->
+
+  </body>
+</html>
