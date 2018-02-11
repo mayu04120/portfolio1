@@ -1,0 +1,33 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   readme.txt
+#
+# Untracked files:
+#	.gitignore
+#	Gemfile
+#	Gemfile.lock
+#	README.md
+#	Rakefile
+#	app/
+#	bin/
+#	config.ru
+#	config/
+#	db/
+#	lib/
+#	log/
+#	package.json
+#	public/
+#	test/
+#	tmp/
+#	vendor/
+#
+
+
+
+
