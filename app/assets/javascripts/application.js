@@ -13,6 +13,13 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
+<<<<<<< HEAD
+=======
+// = require jquery
+// = require jquery_ujs
+// = require jquery.turbolinks
+
+>>>>>>> bf8c690587b21a004e44f35b8a2e8c7a629b4bec
 
 // loading画面
 $(function() {

@@ -30,11 +30,21 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+<<<<<<< HEAD
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 gem "devise"
 gem 'jquery-rails'
 gem 'jquery-turbolinks'
+=======
+gem 'devise'
+gem 'jquery-rails'
+gem 'jquery-turbolinks'
+# gem 'rails_admin', :git => 'git://github.com/sferik/rails_admin.git'
+
+# Use Capistrano for deployment
+# gem 'capistrano-rails', group: :development
+>>>>>>> bf8c690587b21a004e44f35b8a2e8c7a629b4bec
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
